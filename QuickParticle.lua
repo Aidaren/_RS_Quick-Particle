@@ -34,7 +34,9 @@ end
 function QuickParticle.GetGroundPosition(Part , IgnoreList)
 	
 	local Parameter = {Part , IgnoreList}
-	Modules.GroundPosition(Parameter)
+	local Position = Modules.GroundPosition(Parameter)
+	
+	return Position
 	
 end
 

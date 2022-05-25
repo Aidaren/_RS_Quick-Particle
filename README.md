@@ -1,4 +1,4 @@
-# Easy-BezierCurve | Version - 0.1.0
+# QuickParticle | Version - 0.1.0
 
 ## 中文简介/Chinese Language
 **这个模块有什么用？   

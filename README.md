@@ -23,5 +23,6 @@ This module integrates a lot of functions that are often used in special effects
 * **More features are under development**
 
 ### **Made By Aidaren - 究极挨打人**
+### **Credit - Yuruzuu**
 ### **微信: AidarenADR**
 ### **Discord: Aidaren#5009**

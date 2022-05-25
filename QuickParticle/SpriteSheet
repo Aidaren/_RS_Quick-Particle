@@ -1,8 +1,12 @@
 return function(Parameter)
 	
+	local DefaultParticle = Instance.new("ParticleEmitter")
+	DefaultParticle.Name = "Default"
+	
 	local ParticlePreset = Parameter[1] or script.Default
 	local SpriteSheet = Parameter[2] or warn('No textures passed!')
 	local Parent = Parameter[3] or warn('No parent set!')
+	DefaultParticle.Parent = Parent
 	local EmitCount = Parameter[4] or 10
 	local FrameTime = Parameter[5] or 0.03
 	local DebrisDelay = Parameter[6] or 0

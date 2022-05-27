@@ -1,10 +1,10 @@
 local Moduls = {
 	
-	["GroundPosition"] = script.Parent.Parent.GroundPosition ,
-	["BezierCurve"] = script.Parent.Parent.BezierCurve ,
-	["SpriteSheet"] = script.Parent.Parent.SpriteSheet ,
-	["Velocity"] = script.Parent.Parent.Velocity ,
-	["Weld"] = script.Parent.Parent.Weld
+	["GroundPosition"] = require(script.Parent.Parent.GroundPosition) ,
+	["BezierCurve"] = require(script.Parent.Parent.BezierCurve) ,
+	["SpriteSheet"] = require(script.Parent.Parent.SpriteSheet) ,
+	["Velocity"] = require(script.Parent.Parent.Velocity) ,
+	["Weld"] = require(script.Parent.Parent.Weld)
 	
 }
 

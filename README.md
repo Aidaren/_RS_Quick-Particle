@@ -1,10 +1,9 @@
-# Quick-Particle | Version - 0.1.2
+# Quick-Particle | Version - 0.1.3
 
 ## 中文简介/Chinese Language
 **这个模块有什么用？   
 此模块集成了很多制作特效时常用的功能，并将其模块化！**
 ### **脚本功能：**
-* **创建贝塞尔曲线**
 * **创建Weld**
 * **为物体添加速度**
 * **获取地面坐标**
@@ -15,7 +14,6 @@
 **What is the use of this module?    
 This module integrates a lot of functions that are often used in special effects and modularize it**
 ### **Script Feature:**
-* **Create the Bessel curve**
 * **Create Weld**
 * **Add speed to objects**
 * **Get ground position**

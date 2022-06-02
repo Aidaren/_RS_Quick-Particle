@@ -1,7 +1,7 @@
 --[[
 Made By Aidaren / 究极挨打人
 
-Version - 0.1.1
+Version - 0.1.3
 
 Contact Me:
 WeChat: AidarenADR
@@ -51,12 +51,6 @@ function QuickParticle.AddVelocity(Parent , Strength , DestoryDelay)
 	
 	local Parameter = {Parent , Strength , DestoryDelay}
 	Modules.Velocity(Parameter)
-	
-end
-
-function QuickParticle.BezierCurve(Mode:string , Parameter)
-	
-	Modules.BezierCurve:FindFirstChild(Mode)(Parameter)
 	
 end
 

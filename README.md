@@ -24,3 +24,4 @@ This module integrates a lot of functions that are often used in special effects
 ### **Credit - Yuruzuu**
 ### **微信: AidarenADR**
 ### **Discord: Aidaren#5009**
+### **[You can get module here](https://www.roblox.com/library/9799230475/QuickParticle)** 

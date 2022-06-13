@@ -8,6 +8,7 @@
 * **为物体添加速度**
 * **获取地面坐标**
 * **遍历序列帧**
+* **快速发射所有粒子**
 * **更多功能正处于开发中**
 
 ## 英文简介/English Language
@@ -18,6 +19,7 @@ This module integrates a lot of functions that are often used in special effects
 * **Add speed to objects**
 * **Get ground position**
 * **Traversing sprite sheet**
+* **Emit all emitter easily**
 * **More features are under development**
 
 ### **Made By Aidaren - 究极挨打人**

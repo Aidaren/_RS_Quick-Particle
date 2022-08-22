@@ -1,4 +1,4 @@
-# Quick-Particle | Version - 0.2.0
+# Quick-Particle | Version - 0.2.2
 
 ## 中文简介/Chinese Language
 **这个模块有什么用？   

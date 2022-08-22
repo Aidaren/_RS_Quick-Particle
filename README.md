@@ -9,6 +9,7 @@
 * **获取地面坐标**
 * **遍历序列帧**
 * **快速发射所有粒子**
+* **开启/关闭所有Beam**
 * **更多功能正处于开发中**
 
 ## 英文简介/English Language
@@ -20,6 +21,7 @@ This module integrates a lot of functions that are often used in special effects
 * **Get ground position**
 * **Traversing sprite sheet**
 * **Emit all emitter easily**
+* **Enable/Disable beam**
 * **More features are under development**
 
 ### **Made By Aidaren - 究极挨打人**
